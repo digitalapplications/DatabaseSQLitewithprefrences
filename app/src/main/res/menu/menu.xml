@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="Rose"
+    android:id="@+id/rose"
+    android:showAsAction="never">
+</item>
+
+    <item
+        android:title="Lilly"
+        android:id="@+id/lilly"
+        android:showAsAction="never">
+
+    </item>
+
+    <item
+        android:title="Chrysanthemum"
+        android:id="@+id/chrysanthemum"
+        android:showAsAction="never">
+    </item>
+
+    <item
+        android:title="Settings"
+        android:id="@+id/setting"
+        android:showAsAction="never">
+    </item>
+
+
+    <item
+        android:title="show my list"
+        android:id="@+id/show"
+        android:showAsAction="never">
+    </item>
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+<PreferenceCategory android:title="General Settings">
+
+    <CheckBoxPreference
+        android:key="pref_image"
+        android:title="View Image"
+        android:summary="Show image of flower"/>
+
+</PreferenceCategory>
+</PreferenceScreen>
